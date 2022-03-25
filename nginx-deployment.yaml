@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: iac9270752/sample-app066:latest
+        image: iac9270752/sample-app094:latest
         ports:
         - containerPort: 80
