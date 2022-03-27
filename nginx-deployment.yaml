@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: 152096746892.dkr.ecr.ap-northeast-1.amazonaws.com/iac9270752/node-web-app:20220404
+        image: iac9270752/sample-app094:latest
         ports:
         - containerPort: 80
